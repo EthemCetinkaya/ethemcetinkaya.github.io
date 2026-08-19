@@ -16,7 +16,7 @@ timezone: Europe/Istanbul
 
 title: Ethem Çetinkaya | Software Architecture # the main title
 
-tagline: Notes on System Architecture, Integration & Distributed Systems, Designing scalable backends, frameworks # it will display as the subtitle
+tagline: Notes on System Architecture, Integration & Distributed Systems, Designing scalable backends, Frameworks Architecture, DSO # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Yazılım mimarisi, distributed sistemler, framework tasarımı ve entegrasyon çözümleri üzerine teknik notlar.
