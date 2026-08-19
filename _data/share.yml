@@ -13,6 +13,9 @@ platforms:
   - type: Facebook
     icon: "fab fa-facebook-square"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+  - type: whatsapp
+    icon: "fa-brands fa-whatsapp"
+    link: "https://api.whatsapp.com/send?text=TITLE%20URL"
 
   # - type: Telegram
   #   icon: "fab fa-telegram"
@@ -47,7 +50,3 @@ platforms:
   # - type: Threads
   #   icon: "fa-brands fa-square-threads"
   #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
-whatsapp:
-  type: whatsapp
-  icon: "fa-brands fa-whatsapp"
-  link: "https://api.whatsapp.com/send?text=TITLE%20URL"
