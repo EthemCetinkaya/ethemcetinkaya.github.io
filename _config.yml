@@ -31,6 +31,9 @@ github:
 twitter:
   username: ethemcetinkaya # change to your Twitter username
 
+linkedin:
+  username: ethem-çetinkaya-61b6346a # change to your Twitter username
+
 image: /assets/img/og_image.png
 
 social:
@@ -47,7 +50,7 @@ social:
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
