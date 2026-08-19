@@ -52,6 +52,10 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/username
 
+copyright:
+  name: # Boş bırakın
+  type: # Boş bırakın (by veya by-sa değerlerini silin)
+  
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
