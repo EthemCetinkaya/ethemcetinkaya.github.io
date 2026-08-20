@@ -1,5 +1,5 @@
 ---
-title: "Kendi Arka Plan Worker Library'mizi Neden Yazdık?"
+title: "Kendi Background Worker Kütüphanemizi Neden Yazdık?"
 date: 2026-08-19 21:00:00 +0300
 categories: [DSO,Architecture, Integration]
 tags: [dso,csharp, dotnet, distributed-systems, queue]
