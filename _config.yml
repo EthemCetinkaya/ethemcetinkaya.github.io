@@ -46,16 +46,17 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://www.linkedin.com/in/ethem-çetinkaya-61b6346a    
+    - https://github.com/EthemCetinkaya # change to your GitHub homepage
+    - https://twitter.com/ethemcetinkaya # change to your Twitter homepage
+    # - https://www.facebook.com/ethemcetinkaya
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/username
+
 
 copyright:
   name: # Boş bırakın
   type: # Boş bırakın (by veya by-sa değerlerini silin)
-  
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -169,7 +170,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 20
 
 # The base URL of your site
 baseurl: ""
